@@ -1,0 +1,18 @@
+# maven 3.9.12 path
+export PATH=
+
+# java 25.0.2 path
+export PATH=
+
+export PORT=
+
+export ORACLE_IP=
+export ORACLE_PORT=
+export ORACLE_PDB=
+export ORACLE_USERNAME=
+export ORACLE_PASSWORD=
+export ORACLE_USERNAME_ADMIN=
+export ORACLE_PASSWORD_ADMIN=
+
+# sqlcl 25.4.1.022.0618 path
+export PATH=
