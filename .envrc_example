@@ -16,3 +16,4 @@ export ORACLE_PASSWORD_ADMIN=
 
 # sqlcl 25.4.1.022.0618 path
 export PATH=
+
